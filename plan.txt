@@ -1,0 +1,46 @@
+Room renovation project
+
+Responsible: Hubert Paszkowski
+
+Cost: 2000PLN
+Due time: 31st July 2022
+
+The makeover of the room should consider general rules of minimalism, colors suppose to be mono-chromatic with some colorful touch, room should be designed in loft style
+
+To finish renovation of my room i need to proceed:
+
+	1.	DESIGN PHASE
+	
+			a.	Take all the measurements
+					/To properly design new room, I need to take all measurements to precisely set all of the dimensions in the software
+			
+			b.	Create design
+					/Use software (AUTOCAD, Blender) to create 3D design of the new room
+			
+			c.	Choose furniture
+					/Choose furniture that matches one in the design from inexpensive furniture store (IKEA, Black Red White, etc.)
+					
+	2.	PREPARATION PHASE
+			
+			a. Prepare room for renovation
+				I Clean the room
+				II Throw away all unnecessary stuff
+				III Disconnect computer
+				IV Protect remaining furniture with foil
+				
+			b. Buy new furniture and all necessary things 
+				/Wood, screws, paint etc. - depending on the design
+				
+			c. Make sure you have all the tools
+				I IF NOT buy or rent them
+			
+	3.	RENOVATION PHASE
+	
+			a.	Paint the walls
+			
+			b.	Build furniture
+			
+			c.	Clean after makeover
+			
+			d.	Make finishing touches
+				/Put books and models on the shelf, connect back computer
