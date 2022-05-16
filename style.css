@@ -1,0 +1,170 @@
+@media all and (min-width: 583px) and (max-width: 900px)
+{
+	
+	#container
+
+		{
+			height: 600px !important;
+		}
+		
+	#container2
+
+		{
+			float:left;
+		}
+		
+	#textbox
+
+		{
+			background: #c83737 !important;
+			margin-right: 5%;
+			margin-top: -370px;
+			float:right;
+		}
+	
+}
+
+@media all and (min-width: 901px)
+{	
+	#container
+
+		{
+			height: 600px !important;
+		}
+		
+	#container1
+
+		{
+			margin-top: 50px;
+			margin-left: 50px;
+			float: left;
+		}
+		
+	#container2
+
+		{
+			float:right;
+			float:left;
+			margin-left:7%;
+		}
+		
+	#textbox
+
+		{
+			background-color: white !important;
+			float:right;
+			margin-top: -200px;
+			margin-right: 5%;
+		}
+		
+}
+
+body
+
+	{
+		background-color: #fff;
+		margin: 0px;
+	}
+	
+#header
+
+	{
+		background-color:#4d6100;
+		width: auto;
+		height: 50px;
+		border: 5px solid #000;
+		border-bottom: none;
+	}
+	
+#container
+
+	{
+		background-color: #0c8140;
+		height: 900px;
+		border: 5px solid #000;
+	}
+	
+#container1
+
+	{
+		margin-top: 50px;
+		margin-left: 50px;
+		align: center;
+	}
+	
+#square1
+
+	{
+		width: 100px;
+		height: 100px;
+		background: red;
+		transform: rotate(45deg);
+		float: left;
+		margin-top: 100px;
+		border: 3px solid #000;
+	}
+	
+#square2
+
+	{
+		width: 100px;
+		height: 100px;
+		background: red;
+		transform: rotate(45deg);
+		float: left;
+		border: 3px solid #000;
+	}
+	
+#znkrw
+
+	{
+		float:left;
+		margin-top: 20px;
+		margin-left: 30px;
+	}
+	
+#rect1
+
+	{
+		width: 100px;
+		height: 10px;
+		background: #0000da;
+		border: 3px solid #000
+	}
+	
+#rect2
+
+	{
+		width: 100px;
+		height: 10px;
+		background: #0000da;
+		border: 3px solid #000;
+	}
+	
+#circle 
+
+	{
+	  width: 100px;
+	  height: 100px;
+	  background: #00616d;
+	  border-radius: 50%;
+	  float: left;
+	  margin-left: 20px;
+	  border: 3px solid #000;
+	}
+
+#textbox
+
+	{
+		width: 250px;
+		height: 400px;
+		background: #0000da;
+		margin-left: 30px;
+		text-align:center;
+		font-size:50px;
+		padding-top: 20px;
+		border: 3px solid #000;
+		font-family:"Arial";
+	}
+	
+}
